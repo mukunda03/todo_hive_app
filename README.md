@@ -43,7 +43,6 @@ Easily add, view, edit, delete, and filter tasks with a clean and responsive UI.
 ### 📊 Filter Tabs (All / Pending / Completed)  
 ![Filter Tabs](assets/screenshots/filter_tabs.png)
 
-> ⚠️ Replace the above images with your actual screenshots from your app.
 
 ---
 
