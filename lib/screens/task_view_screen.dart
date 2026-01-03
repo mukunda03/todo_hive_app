@@ -112,7 +112,7 @@ class _TaskViewScreenState extends State<TaskViewScreen> {
             ),
             const SizedBox(height: 24),
 
-            _buildSectionLabel("MISSION DETAILS"),
+            _buildSectionLabel("TASK DETAILS"),
             const SizedBox(height: 12),
 
             // --- Description Glass Box ---
@@ -149,7 +149,7 @@ class _TaskViewScreenState extends State<TaskViewScreen> {
               child: Row(
                 children: [
                   const Text(
-                    'Mark as Finished',
+                    'Mark as Completed',
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.w500,

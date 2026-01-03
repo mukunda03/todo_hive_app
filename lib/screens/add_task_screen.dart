@@ -38,7 +38,7 @@ class _AddTaskScreenState extends State<AddTaskScreen> {
           onPressed: () => Navigator.pop(context),
         ),
         title: const Text(
-          'New Flow',
+          'New Task',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.w900,

@@ -63,9 +63,9 @@ class HomeScreen extends StatelessWidget {
                   dividerColor: Colors.transparent,
                   indicatorSize: TabBarIndicatorSize.tab,
                   tabs: const [
-                    Tab(text: 'Flow'),
-                    Tab(text: 'Wait'),
-                    Tab(text: 'Done'),
+                    Tab(text: 'All'),
+                    Tab(text: 'Pending'),
+                    Tab(text: 'Completed'),
                   ],
                 ),
               ),
