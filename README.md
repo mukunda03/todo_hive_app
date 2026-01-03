@@ -1,16 +1,53 @@
-# todo_hive_app
+# Todo Hive App 🚀
 
-A new Flutter project.
+A simple, clean, and fully functional **Flutter Todo App** built with **Hive local database** for local persistence.  
+Easily add, view, edit, delete, and filter tasks with a clean and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add new tasks with title & description  
+- View task details  
+- Edit existing tasks  
+- Mark tasks as completed / pending  
+- Delete tasks  
+- Filter tasks: **All / Pending / Completed**  
+- Persistent local storage with **Hive**  
+- Clean and intuitive UI  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** — UI & State Management  
+- **Hive & Hive Flutter** — Local database  
+- **Dart** — Programming language  
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen  
+![Home Screen](assets/screenshots/home_screen.png)
+
+### ➕ Add Task Screen  
+![Add Task](assets/screenshots/add_task.png)
+
+### 📋 Task View Screen  
+![Task View](assets/screenshots/task_view.png)
+
+### ✍️ Edit Task Screen  
+![Edit Task](assets/screenshots/edit_task.png)
+
+### 📊 Filter Tabs (All / Pending / Completed)  
+![Filter Tabs](assets/screenshots/filter_tabs.png)
+
+> ⚠️ Replace the above images with your actual screenshots from your app.
+
+---
+
+## ❤️ Thank You
+
+Thank you for checking out my project!  
+This app demonstrates **clean architecture, reactive UI with Hive, and simple Flutter best practices** — perfect for portfolio or interview showcase.
