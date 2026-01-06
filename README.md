@@ -28,20 +28,11 @@ Easily add, view, edit, delete, and filter tasks with a clean and responsive UI.
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen  
-![Home Screen](assets/screenshots/home_screen.png)
+### Home Screen || Add Task Screen   || Task View Screen || Edit Task Screen  
+<p align="center"> <img src="assets/screenshots/home_screen.jpeg" width="260"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/add_task_screen.jpeg" width="260"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/task_details_screen.jpeg" width="260"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/edit_screen.jpeg" width="260"/> </p>
 
-### ➕ Add Task Screen  
-![Add Task](assets/screenshots/add_task.png)
-
-### 📋 Task View Screen  
-![Task View](assets/screenshots/task_view.png)
-
-### ✍️ Edit Task Screen  
-![Edit Task](assets/screenshots/edit_task.png)
-
-### 📊 Filter Tabs (All / Pending / Completed)  
-![Filter Tabs](assets/screenshots/filter_tabs.png)
+### Filter Tabs (All / Pending / Completed) 
+<p align="center"> <img src="assets/screenshots/flow1_screen.jpeg" width="260"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/flow2_screen.jpeg" width="260"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/flow3_screen.jpeg" width="260"/> </p>
 
 
 ---
