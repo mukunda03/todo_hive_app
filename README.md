@@ -29,7 +29,7 @@ Easily add, view, edit, delete, and filter tasks with a clean and responsive UI.
 ## 📸 Screenshots
 
 ### Home Screen || Add Task Screen   || Task View Screen || Edit Task Screen  
-<p align="center"> <img src="assets/screenshots/home_screen.jpeg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/add_task_screen.jpeg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/task_details_screen.jpeg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/edit_screen.jpeg" width="200"/> </p>
+<p align="center"> <img src="assets/screenshots/home_screen.jpeg" width="160"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/add_task_screen.jpeg" width="160"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/task_details_screen.jpeg" width="160"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/edit_screen.jpeg" width="160"/> </p>
 
 ### Filter Tabs (All / Pending / Completed) 
 <p align="center"> <img src="assets/screenshots/flow1_screen.jpeg" width="260"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/flow2_screen.jpeg" width="260"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/flow3_screen.jpeg" width="260"/> </p>
